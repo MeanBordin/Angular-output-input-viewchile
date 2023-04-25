@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400&family=Roboto:wght@300;400&display=swap');
+
+body {
+    font-family: 'Kanit', 'Roboto', sans-serif;
+    font-size: 16px;
+}
